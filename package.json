@@ -1,0 +1,29 @@
+{
+  "name": "lofter-posts-to-markdowns-crawler",
+  "version": "0.0.1",
+  "description": "A crawler used to crawl all my renju posts hosted in lofter and save them as markdown in local.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dudulism/dudulism.github.io.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "server-side",
+    "crawler",
+    "lofter",
+    "qiniu",
+    "markdown"
+  ],
+  "author": "Dudulism",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dudulism/dudulism.github.io/issues"
+  },
+  "homepage": "https://github.com/dudulism/dudulism.github.io#readme",
+  "devDependencies": {
+    "cheerio": "^0.20.0"
+  }
+}
