@@ -1,3 +1,3 @@
 # dudulism.github.io
 
-Dudu's renju blog
+零度以下的博客。
